@@ -42,6 +42,9 @@ public class JogoTester {
 			visit.Listar();
 			
 			System.out.println("*********************************************");
+			System.out.println("Aluno: João Pedro Baptista de Bragança");
+			System.out.println("Github: https://github.com/jpbraganca/Trabalho-POO--Encapsulamento");
+			System.out.println("*********************************************");
 		}
 		
 	}
